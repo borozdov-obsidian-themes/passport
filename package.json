@@ -1,0 +1,17 @@
+{
+  "name": "borozdov-passport",
+  "private": true,
+  "description": "A playful passport on a pale sky: friendly bold headlines, a spring-mint pill for what you act on, a gradient sky card and round everything.",
+  "license": "MIT",
+  "scripts": {
+    "fonts": "python3 scripts/embed-fonts.py",
+    "lint": "stylelint theme.css",
+    "build": "node scripts/build.mjs",
+    "screenshots": "python3 scripts/screenshots.py"
+  },
+  "devDependencies": {
+    "lucide-static": "^1.47.0",
+    "stylelint": "^17.0.0",
+    "stylelint-config-obsidianmd": "^0.1.0"
+  }
+}
