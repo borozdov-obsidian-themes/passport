@@ -34,10 +34,14 @@ round everything.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Passport**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Palette**. Install Borozdov Palette under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Passport** under Style Settings → Borozdov Palette → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the [latest
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the [latest
 release](https://github.com/borozdov-obsidian-themes/passport/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Passport/`, then choose Borozdov Passport under Settings
 → Appearance → Themes.
@@ -58,5 +62,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Посадка» — весёлый паспорт на
 бледном небе, и тёмный «Ночной рейс» — тот же паспорт на ночном перелёте над океаном.
 Дружелюбные жирные заголовки (Passport Sans на основе Andika), мятная пилюля для главной
-кнопки, карточка с небесным градиентом и всё круглое. Устанавливается из каталога: Настройки
-→ Оформление → Темы → Настроить → Borozdov Passport → Установить и применить.
+кнопки, карточка с небесным градиентом и всё круглое. В каталоге тема живёт вариантом Borozdov Palette: установите Borozdov Palette и плагин Style Settings, затем выберите Passport в Style Settings → Borozdov Palette → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
